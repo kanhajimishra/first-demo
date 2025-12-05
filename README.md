@@ -1,4 +1,4 @@
 # first-demo
-This is my first Git Repository.
+It's my first Git Repository.
 <br>
 Author- Kanha Ji Mishra
